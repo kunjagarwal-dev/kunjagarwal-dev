@@ -75,11 +75,11 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kunjagarwal381-maker&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunjagarwal381-maker&theme=tokyonight&hide_border=true&show_icons=true&count_private=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunjagarwal381-maker&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunjagarwal381-maker&theme=tokyonight&hide_border=true&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kunjagarwal381-maker&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kunjagarwal381-maker&theme=tokyonight&hide_border=true)
 
 </div>
 
