@@ -59,7 +59,7 @@
 ### 🎬 Movie Recommender System
 > ML-based movie recommendation engine using **Cosine Similarity** and **TMDB API**
 - 🛠️ Python | Scikit-learn | Pandas | Streamlit
-- 🔗 [View Repository](https://github.com/kunjagarwal381-maker/movie-recommender-system)
+- 🔗 [View Repository](https://github.com/kunjagarwal-dev/movie-recommender-system)
 
 ### 💼 Job Portal App *(Coming Soon)*
 > Full stack job portal where employers post jobs and candidates apply seamlessly
@@ -75,11 +75,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunjagarwal381-maker&theme=tokyonight&hide_border=true&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunjagarwal-dev&theme=tokyonight&hide_border=true&show_icons=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunjagarwal381-maker&theme=tokyonight&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunjagarwal-dev&theme=tokyonight&hide_border=true&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kunjagarwal381-maker&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kunjagarwal-dev&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -102,7 +102,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunjagarwal/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunjagarwal381@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunjagarwal381-maker)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunjagarwal-dev)
 
 </div>
 
@@ -112,7 +112,7 @@
 
 ### 💡 *"Code. Build. Deploy. Repeat."* 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=kunjagarwal381-maker&color=6366f1&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=kunjagarwal-dev&color=6366f1&style=for-the-badge)
 
 </div>
 
